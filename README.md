@@ -1,6 +1,6 @@
 ![My Image](learn.jpg)
 
-5-minute read
+Sreenivas Angara 5-minute read
 # Value Proposition
 
 There are many software professionals who need to invest in their skills. In order to build skills, you need infrastructure(playground) to experiment. With "Serverless architecture" being the future, you will need cloud subscription to keep building your skills. This will cost money. How much is the question? 
@@ -32,4 +32,11 @@ This is a repeatable pattern that can be applied to various learning paths.
 # Benefits
 
 Financial discipline is a new dimension in the Software Engineers skillset. Employers will appreciate both technical skills and cost awareness. For Microsoft, it will be a differentiating factor, when technical resources are able to do more at lower cost.
+
+
+<p>Thank you for your time</p>
+<p>Sreenivas Angara<br>
+<a href="https://www.linkedin.com/in/sreenivasangara">linkedin.com/in/sreenivasangara</a><br>
+Certified in Microsoft Azure Data Engineer Assoiciate<br>
+Certified in Snowflake SnowPro</p>
 
