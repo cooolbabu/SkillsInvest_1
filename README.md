@@ -23,7 +23,8 @@ Understand the costs and incorporate it into a curriculum that I plan to develop
  
 # First product
 
-ML Engineer certification. Education cost = Cost of Curriculum + Microsoft Azure Subscription cost.  Understand the cost and budget appropriately. Develop Financial discipline as part of your education journey. For most people, education cost is subsidized or free. It will help those companies allocate sufficient resources.
+<p>ML Engineer certification. Education cost = Cost of Curriculum + Microsoft Azure Subscription cost.  Understand the cost and budget appropriately. Develop Financial discipline as part of your education journey. For most people, education cost is subsidized or free. It will help those companies allocate sufficient resources.</p>
+<p>On the hand, independent consultants or people looking for a career change or people looking to build new skills, understanding education cost is required. It will help them complete their journey successfully</p>
  
 # Future products
 
