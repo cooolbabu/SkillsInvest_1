@@ -1,6 +1,12 @@
 ![My Image](learn.jpg)
 
 Sreenivas Angara 5-minute read
+
+# My Journey
+I have 20+ years experience in Data Management and Integration. All of it is on 'Legacy' on-prem infrastructure. I was recently laid-off and found it hard to get another position because my Cloud skills were on low side. I decided to educate myself and $$ for skills upgrade came out of my own pocket.
+
+<p>I got Certified in Snowflake and then as Microsoft Azure Data Engineer Associate in last couple of months. My certification journey is what inspired me to take this path.</p>
+
 # Value Proposition
 
 There are many software professionals who need to invest in their skills. In order to build skills, you need infrastructure(playground) to experiment. With "Serverless architecture" being the future, you will need cloud subscription to keep building your skills. This will cost money. How much is the question? 
