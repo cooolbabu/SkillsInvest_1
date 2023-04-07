@@ -45,6 +45,9 @@ This is a repeatable pattern that can be applied to various learning paths.
 
 Financial discipline is a new dimension in the Software Engineers skillset. Employers will appreciate both technical skills and cost awareness. <p>For Microsoft, it will be a differentiating factor, when technical resources are able to deliver more value at a reasonable cost.</p>
 
+# Social Impact
+<p> Cost of Education in building cloud skills is much higher than acquiring a latop. Economically disadvantaged groups will find it harder to acquire these skills using on their own personal funds. On the other hand, non-profits or social services who are providing assistance to these groups, need to be aware of the cost from a planning perspective. The product I design, will help address this issue.
+
 <p>Thank you for your time</p>
 <p>Sreenivas Angara<br>
 <a href="https://www.linkedin.com/in/sreenivasangara">linkedin.com/in/sreenivasangara</a><br>
