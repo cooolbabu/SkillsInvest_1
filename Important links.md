@@ -21,3 +21,4 @@ These are important links
 
 # Python - Pandas, matplotlib, seaborn
 - [100 days ML/DS](https://github.com/ds-teja/100_Days_MLDL/tree/main)
+- [Advanced Pandas: A Comprehensive Handbook for Data Enthusiasts](https://python.plainenglish.io/pandas-demystified-a-comprehensive-handbook-for-data-enthusiasts-part-2-4e2449fcc939)
