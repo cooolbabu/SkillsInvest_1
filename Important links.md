@@ -26,3 +26,6 @@ These are important links
 ## ML / AI
 - [All You Need to Know About SHAP for Explainable AI?](https://medium.com/@shahooda637/all-you-need-to-know-about-shap-for-explainable-ai-8ad35a05e6ec)
 - [Code Generator](https://www.useblackbox.io/chat)
+
+## Azure AI/ML
+- [Azure Open AI Blueprint – Navigating from MVP to Enterprise Environments](https://www.floriankitterer.com/post/your-azure-openai-blueprint-navigating-from-mvp-to-enterprise-environments)
