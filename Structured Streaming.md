@@ -15,3 +15,7 @@
   - Triggered pipelines update each table with whatever data is currently available and then stop the cluster running the pipeline. Delta Live Tables automatically analyzes the dependencies between your tables and starts by computing those that read from external sources. Tables within the pipeline are updated after their dependent data sources have been updated.
   
   - Continuous pipelines update tables continuously as input data changes. Once an update is started, it continues to run until manually stopped. Continuous pipelines require an always-running cluster but ensure that downstream consumers have the most up-to-date data.
+
+## Creating Delta Live Pipelines
+  - Select Workflows UI and Delta live tables tab, under task type select Delta live tables pipeline and select the notebook.
+  - What are the other options after clicking Workflows on the side bar of the UI
