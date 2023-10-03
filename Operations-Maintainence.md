@@ -11,3 +11,9 @@
 - **READ_METADATA**: gives ability to view an object and its metadata.
 - **CREATE_NAMED_FUNCTION**: gives ability to create a named UDF in an existing catalog or schema.
 - **ALL PRIVILEGES**: gives all privileges (is translated into all the above privileges).
+
+## Upgrading
+```
+CREATE TABLE <catalog>.<new-schema>.<new-table>
+AS SELECT * FROM hive_metastore.<old-schema>.<old-table>;
+```
