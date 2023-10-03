@@ -42,3 +42,9 @@
     ## Create Database
     CREATE DATABASE sales LOCATION 'dbfs:/mnt/delta/databases/sales.db/'
 
+```
+## Explode, Flatten
+**Explode** is table-valued function, takes an array or map and returns a row for each element in the array.
+**Flatten** is a function that takes an array of elements and converts them to a list
+
+
