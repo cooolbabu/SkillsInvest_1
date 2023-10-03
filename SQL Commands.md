@@ -47,4 +47,18 @@
   - **Explode** is table-valued function, takes an array or map and returns a row for each element in the array.
   - **Flatten** is a function that takes an array of elements and converts them to a list
 
+## Different ways of Schema evolution
+**Provide schema hints.**
+```
+  spark.readStream \
+    .format("cloudFiles") \
+    .option("cloudFiles.format", "csv") \
+    .option("header", "true") \
+    .option("cloudFiles.schemaLocation", schema_location) \
+    .option("cloudFiles.schemaHints", "id int, description string")
+    .load(raw_data_location)
+    .writeStream \
+    .option("checkpointLocation", checkpoint_location) \
+    .start(target_delta_table_location)
+```
 
