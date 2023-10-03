@@ -16,3 +16,7 @@
           .option("cloudFiles.format", "parquet")
           .load("/databricks-datasets/wikipedia-datasets/data-001/en_wikipedia/articles-only-parquet")
       )
+
+    ## Create Database
+    CREATE DATABASE sales LOCATION 'dbfs:/mnt/delta/databases/sales.db/'
+
