@@ -8,12 +8,21 @@
     SHALLOW CLONE OR DEEP CLONE for cloning tables as an option on create tables
       CREATE OR REPLACE TABLE {new_table_name} SHALLOW CLONE {source_table_name}|[LOCATION path]
 
+    ## Create Delta Table
     CREATE TABLE users_jdbc
     USING org.apache.spark.sql.jdbc
     OPTIONS (
         url = "jdbc:sqlite:/sqmple_db",
         dbtable = "users"
     )
+
+    ## Create Delta Live Table
+    CREATE LIVE TABLE sales_order_in_chicago
+    AS
+    SELECT order_date, city, sum(price) as sales,
+    FROM sales_orders_cleaned
+    WHERE city = 'Chicago')
+    GROUP BY order_date, city
 
     ## Nulls and constraints
     CREATE TABLE events( id LONG,
