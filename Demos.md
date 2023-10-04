@@ -1,8 +1,9 @@
 # DataBricks Demos
-[Demo Playlist](https://www.youtube.com/watch?v=ISleaBJYVi4&list=PLTPXxbhUt-YVAGgN0aNCqY4Jydg324X8u)
+- [Demo Playlist](https://www.youtube.com/watch?v=ISleaBJYVi4&list=PLTPXxbhUt-YVAGgN0aNCqY4Jydg324X8u)
 
 # DataBricks Talks
 
 # Playlist Items
-[Ask Databricks - about Delta Live Tables (DLT) with Michael Armbrust](https://www.youtube.com/watch?v=DDqMNMF57P8)
-[Ask Databricks about Unity Catalog with Simon Whiteley and Paul Roome](https://www.youtube.com/watch?v=frruZ2AmZNo)
+- [Ask Databricks - about Delta Live Tables (DLT) with Michael Armbrust](https://www.youtube.com/watch?v=DDqMNMF57P8)
+- [Ask Databricks about Unity Catalog with Simon Whiteley and Paul Roome](https://www.youtube.com/watch?v=frruZ2AmZNo)
+- [Advancing Spark - Row-Level Security and Dynamic Masking with Unity Catalog](https://www.youtube.com/watch?v=jAPuAuphwt4)
