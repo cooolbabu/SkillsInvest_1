@@ -71,3 +71,15 @@
     .start(target_delta_table_location)
 ```
 
+```
+WITH CTE AS (
+    SELECT *,
+           ROW_NUMBER() OVER (
+               PARTITION BY lead_id, lead_status
+               ORDER BY (SELECT NULL)
+           ) AS RowNumber
+    FROM Leads
+)
+select * FROM CTE WHERE RowNumber > 1;
+```
+
