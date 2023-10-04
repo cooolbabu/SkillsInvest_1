@@ -29,3 +29,4 @@ These are important links
 
 ## Azure AI/ML
 - [Azure Open AI Blueprint – Navigating from MVP to Enterprise Environments](https://www.floriankitterer.com/post/your-azure-openai-blueprint-navigating-from-mvp-to-enterprise-environments)
+- [Article series on ML](https://medium.com/@aneesha161994/azure-dp-100-part-6-visualization-tecniques-in-azure-ml-ce0c6a3c6d72)
