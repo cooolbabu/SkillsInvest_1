@@ -1,0 +1,27 @@
+#### How do you migrate into Unity Catalog?
+- Four steps defined in Ask Databricks - Ask Databricks about Unity Catalog with Simon Whiteley and Paul Roome - 25 mins
+
+-  Unity is becoming the foundation for Team building feature
+  - Global admin
+  - Built in goverance for DataBricks
+  
+
+- Activity based access control
+  - Column and row level access control
+  - Tags - key, value 
+
+- How is DB work with Fabric
+  - Fabric is based on Lakehouse
+
+- We have to see is different vendors are willing to share Metashore
+  -  Ideally Unity provides governance layer. This is the struggle
+
+- AI in Unity
+  - Have models in Unity
+  - Models are represented in Unity
+  - How are AI Models adhere to govt policies
+  - Model lineage. How 
+
+- Limitations
+  
+
