@@ -83,3 +83,5 @@ WITH CTE AS (
 select * FROM CTE WHERE RowNumber > 1;
 ```
 
+## Handling complex json
+[Five Spark SQL Helper Utility Functions to Extract and Explore Complex Data Types](https://docs.databricks.com/en/optimizations/semi-structured.html)
