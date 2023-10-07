@@ -1,3 +1,11 @@
+### When condition in columnar transformations
+```
+# Importing the when condition
+from pyspark.sql.functions import when
+countries.withColumn('name_length', when(countries['population']>100000000, 'large').otherwise('not large')).display()
+```
+  
+  
   ```
     DESCRIBE HISTORY table_name
     DESCRIBE EXTENDED table_name
