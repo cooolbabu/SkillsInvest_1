@@ -15,3 +15,4 @@
 - Performance computing using column based transformation. You may not need it now. But you will in the future
 - Dashboards update by calling APIs and enhancing with local data
 - Somethings from SingleStore
+- Top 10 High Order queries
