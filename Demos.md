@@ -17,3 +17,8 @@
 - Somethings from SingleStore
 - Top 10 High Order queries
 - What is TPC-DS benchmark
+
+
+# Others
+https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1
+https://www.youtube.com/watch?v=fmolIrpXRy0
